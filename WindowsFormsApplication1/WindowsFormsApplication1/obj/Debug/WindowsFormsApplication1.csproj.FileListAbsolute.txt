@@ -1,0 +1,5 @@
+C:\Users\Mehmet\Documents\GitHub\projeisyonetimi-anaokulu\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mehmet\Documents\GitHub\projeisyonetimi-anaokulu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Documents\GitHub\projeisyonetimi-anaokulu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AnaOkuluBilisim.Form1.resources
+C:\Users\Mehmet\Documents\GitHub\projeisyonetimi-anaokulu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mehmet\Documents\GitHub\projeisyonetimi-anaokulu\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
