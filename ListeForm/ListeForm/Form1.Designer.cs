@@ -1,6 +1,6 @@
-﻿namespace ListeForm
+﻿namespace AnaOkuluBilisim
 {
-    partial class Form1
+    partial class ListeForm
     {
         /// <summary>
         /// Required designer variable.
